@@ -1,4 +1,4 @@
-name: Android CICD code for build apk.
+name: Android Pull Request & Master CI And APK build.
 on:
   push:
     branches: [ main ]
