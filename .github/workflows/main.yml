@@ -1,4 +1,4 @@
-name: Android CICD.1
+name: Android CICD code for build apk.
 on:
   push:
     branches: [ main ]
