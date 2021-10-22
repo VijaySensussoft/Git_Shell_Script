@@ -1,3 +1,3 @@
-fun (){
-print("Hello Foo")
+fun() {
+    print("Hello Not Foo")
 }
