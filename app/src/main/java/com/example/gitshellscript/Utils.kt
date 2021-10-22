@@ -1,3 +1,3 @@
 fun (){
-print("Hello Foo")
+  print("Hello Foo")
 }
